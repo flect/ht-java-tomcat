@@ -12,6 +12,7 @@ Clone app from Github
 
 ```
 $ git clone git@github.com:flect/ht-java-tomcat.git
+$ cd ht-java-tomcat/
 ```
 
 ### Step2  
@@ -29,3 +30,10 @@ Deploy application
 $ git push heroku master
 ```
 
+### Step 4
+
+Visit application
+
+```
+$ heroku open
+```
